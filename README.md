@@ -1,8 +1,24 @@
 # Architecture ideas
 
-X-line: Logic assembly and distribution based on the instruction library from a data-driven perspective
+## X-line
 
-Y-line: OpenStyle、ContactStyle
+Logic assembly and distribution based on the instruction library from a data-driven perspective
+
+## Y-line
+
+OpenStyle、ContactStyle
+
+## Z-line
+
+### versioning
+
+#### auto increment or artificial setting
+
+#### rollback
+
+### forkable & comment
+
+
 
 # Implementation ideas
 
