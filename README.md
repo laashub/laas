@@ -6,10 +6,6 @@ Logic assembly and distribution based on the instruction library from a data-dri
 
 ## Y-line
 
-OpenStyle、ContactStyle
-
-## Z-line
-
 ### versioning
 
 #### auto increment or artificial setting
@@ -18,7 +14,9 @@ OpenStyle、ContactStyle
 
 ### forkable & comment
 
+## Z-line
 
+OpenStyle、ContactStyle
 
 # Implementation ideas
 
