@@ -1,29 +1,44 @@
-# Architecture ideas
+[English](README.md) | [中文](README_zh_CN.md)
 
-## X-line
+# Overview
 
 Logic assembly and distribution based on the instruction library from a data-driven perspective
 
-## Y-line
-
-### versioning
-
-#### auto increment or artificial setting
-
-#### rollback
-
-### forkable & comment
-
-## Z-line
-
-OpenStyle、ContactStyle
-
-# Implementation ideas
+# OpenLaas Component
 
 ## [Designer](https://github.com/openlaas/designer)
 
+designer design logic service
+
 ## [Distribution](https://github.com/openlaas/distribution)
+
+distribution distribution logic service
 
 ## [Engine](https://github.com/openlaas/engine)
 
+engine execute logic service
+
 ## [Dashboard](https://github.com/openlaas/dashboard)
+
+display logic service
+
+# Similar Projects
+
+## Tencent-BlueKing
+
+## [CoDo](https://github.com/opendevops-cn/opendevops)
+
+# [Why Need OpenLaas](docs/whyNeedOpenLaas.md)
+
+# OpenLaas Community
+
+## QQ Group
+
+![QQGroup](docs/images/QQGroup.png)
+
+## Wechat Group
+
+## DingTalk Group
+
+![QQGroup](docs/images/DingTalkGroup.jpg)
+
