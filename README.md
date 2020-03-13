@@ -6,9 +6,9 @@ Logic assembly and distribution based on the instruction library from a data-dri
 
 # OpenLaas Component
 
-## [Designer](https://github.com/openlaas/designer)
+## [Workstation](https://github.com/openlaas/workstation)
 
-designer design logic service
+design to distribution to dashboard
 
 ## [Distribution](https://github.com/openlaas/distribution)
 
@@ -17,10 +17,6 @@ distribution distribution logic service
 ## [Engine](https://github.com/openlaas/engine)
 
 engine execute logic service
-
-## [Dashboard](https://github.com/openlaas/dashboard)
-
-display logic service
 
 # Similar Projects
 

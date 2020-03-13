@@ -6,9 +6,9 @@
 
 # OpenLaas 组成元素
 
-## [设计器](https://github.com/openlaas/designer)
+## [工作站](https://github.com/openlaas/workstation)
 
-设计器设计逻辑业务
+设计 - 分发 - 用户面板
 
 ## [分发器](https://github.com/openlaas/distribution)
 
@@ -17,10 +17,6 @@
 ## [执行引擎](https://github.com/openlaas/engine)
 
 引擎执行逻辑业务
-
-## [面板](https://github.com/openlaas/dashboard)
-
-展示逻辑业务
 
 # 相似项目
 
