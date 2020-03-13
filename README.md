@@ -4,6 +4,8 @@
 
 Logic assembly and distribution based on the instruction library from a data-driven perspective
 
+![simple_architecture](docs/images/simple_architecture.png)
+
 # OpenLaas Component
 
 ## [Workstation](https://github.com/openlaas/workstation)

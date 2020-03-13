@@ -4,6 +4,8 @@
 
 从数据的角度驱动由分发、组装由数据和指令库构造的逻辑
 
+![simple_architecture](README_zh_CN.assets/simple_architecture.png)
+
 # OpenLaas 组成元素
 
 ## [工作站](https://github.com/openlaas/workstation)
