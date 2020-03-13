@@ -24,7 +24,7 @@ display logic service
 
 # Similar Projects
 
-## Tencent-BlueKing
+## Tencent-bk
 
 ## [CoDo](https://github.com/opendevops-cn/opendevops)
 
