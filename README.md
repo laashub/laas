@@ -30,15 +30,3 @@ display logic service
 
 # [Why Need OpenLaas](docs/whyNeedOpenLaas.md)
 
-# OpenLaas Community
-
-## QQ Group
-
-![QQGroup](docs/images/QQGroup.png)
-
-## Wechat Group
-
-## DingTalk Group
-
-![QQGroup](docs/images/DingTalkGroup.jpg)
-
