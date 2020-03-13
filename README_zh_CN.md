@@ -28,5 +28,5 @@
 
 ## [CoDo](https://github.com/opendevops-cn/opendevops)
 
-# [为什么需要OpenLaas项目](docs/whyNeedOpenLaas_zh.md)
+# [为什么需要OpenLaas项目](docs/whyNeedOpenLaas_zh_CN.md)
 
