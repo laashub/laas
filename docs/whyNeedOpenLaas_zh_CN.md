@@ -1,3 +1,4 @@
+[English](whyNeedOpenLaas.md) | [中文](whyNeedOpenLaas_zh_CN.md)
 # OpenLaas是什么
 
 OpenLaas是抽象逻辑模式
