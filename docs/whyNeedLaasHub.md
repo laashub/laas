@@ -1,10 +1,10 @@
 [English](whyNeedOpenLaas.md) | [中文](whyNeedOpenLaas_zh_CN.md)
 
-# What's the OpenLaas
+# What's the LaasHub
 
 OpenLaas is a abstract logic model
 
-## what's the Open
+
 
 open source、open style
 
@@ -12,13 +12,11 @@ open source means that the project can server the world without begging affected
 
 open means gathering the strengths of one hundred schools, eliminating the shortcomings of one hundred schools, and speaking less well than teaching, technically able to quickly and effectively improve, learn from, share, and supervise, and quickly from a herd effect, maximize sink, promote best practices, avoid doing wrong and vulnerabilities
 
-## what's the Laas
+
 
 projects implemented with data and instructions as an architectural perspective or re-extracting data, instructions from the project and integrating with each other can be called Laasization
 
-# why need OpenLaas
-
-## why need Open
+# why need LaasHub
 
 gain trust, increase engagement, and from positive feedback through open source, break the deadlock and lift the deadlock effect
 
@@ -30,7 +28,7 @@ from a developer's perspective:
 
 everyone desires to be famous, to be remembered, OpenLaas allows to publish solutions and obtain economic, signature, and upper-level solution commitments
 
-## why need Laas
+
 
 actually all systems are Laasized systems
 
