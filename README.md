@@ -1,30 +1,34 @@
-[English](README.md) | [中文](README_zh_CN.md)
+# LaasHub是什么
 
-# Overview
+LaasHub是抽象逻辑模式
 
-Logic assembly and distribution based on the instruction library from a data-driven perspective
+以 数据、指令 为架构观实现的项目 或者 重新从项目中抽取 数据、指令并互相融合 的都可以叫做Laas化
 
-![simple_architecture](docs/images/simple_architecture.png)
+## 开源
 
-# OpenLaas Component
+开源意味着项目能够不受个人私欲的影响而服务世界, 因有效监督、充分参与而信任
 
-## [Workstation](https://github.com/openlaas/workstation)
+## 开放
 
-design to distribution to dashboard
+开放意味着集百家之长、消百家之短、言传不如身教, 在技术上能够快速而有效的提升、借鉴、分享、监督, 并快速形成羊群效应, 最大限度的提高下沉度, 宣扬最佳实践, 避免做错误型、漏洞型实践
 
-## [Distribution](https://github.com/openlaas/distribution)
+# 为什么需要LaasHub
 
-distribution distribution logic service
+通过开源获取信任、提高参与度并形成正向反馈, 打破僵局, 解除死锁效应
 
-## [Engine](https://github.com/openlaas/engine)
+## 从使用者的角度来看
 
-engine execute logic service
+90%的公司的业务其实都是重复性的, 通过大量重用提高公司效率、节省成本、提高稳定性、性能、安全性
 
-# Similar Projects
+## 从开发者的角度来看
 
-## Tencent-bk
+每个人都渴望功成名就、渴望被人记住, LaasHub允许发行方案并获取 经济、签名、上层方案承诺
+为个人发展在 时代/个人发展 的局限性中 极致拔高专注度
 
-## [CoDo](https://github.com/opendevops-cn/opendevops)
+## 并不是新的概念
 
-# [Why Need LaasHub](docs/whyNeedLaasHub.md)
+其实所有的系统都是Laas化的系统, 但是为什么又重新提出这个词语是因为:
 
+多个系统之间没有充分融合, 这就导致使用者的多余工作
+
+通过Laas化标准将所有系统串联起来并在OpenLaas的用户使用面板提供统一使用, 并且投入大量资源并符合时代发展去统一深化, 比如 数据分析、自动化、智能化、多渠道
