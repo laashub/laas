@@ -1,34 +1,35 @@
-# LaasHub是什么
+[English](README.md) | [中文](README_zh_CN.md)
 
-LaasHub是抽象逻辑模式
+# What's Laas
 
-以 数据、指令 为架构观实现的项目 或者 重新从项目中抽取 数据、指令并互相融合 的都可以叫做Laas化
+Laas is an abstract logic pattern
 
-## 开源
+A project implemented with data and instructions as the architectural concept or re-extracting data and instructions from the project and integrating them can be called Laas
 
-开源意味着项目能够不受个人私欲的影响而服务世界, 因有效监督、充分参与而信任
+## Open Source
 
-## 开放
+Open source means that the project can serve the world without being influenced by personal desires, and trust due to effective supervision and full participation
 
-开放意味着集百家之长、消百家之短、言传不如身教, 在技术上能够快速而有效的提升、借鉴、分享、监督, 并快速形成羊群效应, 最大限度的提高下沉度, 宣扬最佳实践, 避免做错误型、漏洞型实践
+## Open
 
-# 为什么需要LaasHub
+Openness means gathering the strengths of a hundred schools, eliminating the shortcomings of a hundred schools, and not as good as personal teaching.It can quickly and effectively improve, learn from, share, and supervise in technology, and quickly form a herd effect to maximize the sinking degree. Promote best practices and avoid doing wrong or leaky practices
 
-通过开源获取信任、提高参与度并形成正向反馈, 打破僵局, 解除死锁效应
+# Why Need Laas
 
-## 从使用者的角度来看
+Gain trust through open source, increase participation and form positive feedback to break the deadlock and lift the deadlock effect
 
-90%的公司的业务其实都是重复性的, 通过大量重用提高公司效率、节省成本、提高稳定性、性能、安全性
+## From The User's Perspective
 
-## 从开发者的角度来看
+90% of the company's business is actually repetitive, through a lot of reuse to improve the company's efficiency, cost savings, improve stability, performance, security
 
-每个人都渴望功成名就、渴望被人记住, LaasHub允许发行方案并获取 经济、签名、上层方案承诺
-为个人发展在 时代/个人发展 的局限性中 极致拔高专注度
+## From A Developer's Perspective
 
-## 并不是新的概念
+Everyone is eager to become famous and to be remembered. LaasHub allows the issuance of plans and obtains the financial, signature, and upper-level plan commitments For personal development in the limits of the era / personal development
 
-其实所有的系统都是Laas化的系统, 但是为什么又重新提出这个词语是因为:
+## Not A New Concept
 
-多个系统之间没有充分融合, 这就导致使用者的多余工作
+In fact, all systems are Laas systems, but why the word is reintroduced because:
 
-通过Laas化标准将所有系统串联起来并在LaasHub的用户使用面板提供统一使用, 并且投入大量资源并符合时代发展去统一深化, 比如 数据分析、自动化、智能化、多渠道
+There is insufficient integration between multiple systems, which results in extra work for users
+
+Connect all systems in series through the Laas standard and provide unified use in the LaasHub user use panel, and invest a lot of resources and conform to the development of the times to unify and deepen, such as data analysis, automation, intelligence, multi-channel
